@@ -1,8 +1,53 @@
 body{
-    background-color: red;
+    background-color: rgb(118, 5, 5);
 }
 h1{
     background-color: aqua;
     color: white;
     text-align: center;
+}
+.k{
+    background-color: beige;
+    height: 1500px;
+}
+.twitter{
+    height: 450px;
+    background-color: white;
+    width: 400px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+.ds{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+button{
+   
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    height: 30px;
+
+    
+}
+.instagramm{ height: 450px;
+    background-color: white;
+    width: 400px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.youtube{height: 450px;
+    background-color: white;
+    width: 400px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+
 }
